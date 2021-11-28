@@ -1,5 +1,3 @@
-hola
+hola platzi
 
-mundo
-
-ya no hay modificacion
+ya estoy en la clase 14
