@@ -37,6 +37,7 @@ body{
   font-weight: bold;
 }
 
+<<<<<<< HEAD
 #cabecera #logo
 {
   width: 100px;
@@ -46,5 +47,12 @@ body{
 #post
 {
   background: white;
+=======
+#footer
+{
+  background: #777;
+  color: white;
+  text-align: center;
+>>>>>>> footer
   padding: 1em;
 }
